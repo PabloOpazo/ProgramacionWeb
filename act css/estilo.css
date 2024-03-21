@@ -1,0 +1,45 @@
+/* Comentario wajajaj*/
+#ejemplo{
+    border-style: solid;
+    border-width: 1px;
+    border-color: blue;
+    padding-left: 10%;
+    margin-top: 30px;
+}
+
+h1, p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    margin-top: 0px;
+    background-color: beige;
+}
+a{
+    font-size: 40px;
+}
+h1{
+    color: brown;
+    font-size: 80px;
+}
+
+#rojo{ /*id*/
+    color: red;
+}
+
+.chokita{ /*clase*/
+    font-weight: bolder;
+}
+
+.verde{ /*clase*/
+    color: darkgreen;
+    border-style: solid;
+    border-width: 1px;
+    border-color: blue;
+}
+
+.header{ /*clase*/
+    background-color: lightcyan;
+    padding: 5%;
+    text-align: center;
+}
